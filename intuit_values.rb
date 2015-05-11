@@ -64,5 +64,5 @@ end
 one = ["dintui", ": be b", "uit: be", "dintui", " bold", ": be", "dintui", " be bold", "t: be bo", "intu"]
 two = ["t com", "y withou", "without co", "romiseintui", "uit", "intu", " wit", " integrity", "ompro", ": in", " wi", " integrity", "ity without", "eintuit: inte", "miseintui", "it: integ", "iseintuit:"]
 
-p find_phrase(one)
-p find_phrase(two)
+p find_phrase(one) # intuit: be bold
+p find_phrase(two) # intuit: integrity without compromise
